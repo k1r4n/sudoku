@@ -3,6 +3,12 @@ Program to check given Sudoku solution is valid or not
 
 Solutions are harded in `data/index.js`
 
+## clone
+
+`
+git clone git@github.com:k1r4n/sudoku.git
+`
+
 ## running 
 
 ### docker
