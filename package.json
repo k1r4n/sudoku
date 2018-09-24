@@ -1,0 +1,25 @@
+{
+  "name": "sudoku",
+  "version": "1.0.0",
+  "description": "Soduku solution validator",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k1r4n/sudoku.git"
+  },
+  "keywords": [
+    "Soduku",
+    "Node.js"
+  ],
+  "author": "Kiran Rajaram",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/k1r4n/sudoku/issues"
+  },
+  "homepage": "https://github.com/k1r4n/sudoku#readme"
+}
